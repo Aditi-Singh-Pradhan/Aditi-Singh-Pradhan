@@ -1,12 +1,12 @@
 # Hi, I'm Aditi Singh Pradhan 👋
 
-First year CS student at **BITS Pilani, Goa × RMIT University** — building things at the intersection of AI/ML and real-world problems.
+First year CS student at **BITS Pilani, Goa × RMIT University**  interested in the domain of AI/ML.
 
 ---
 
 ## What I'm working on
 
-- **FocusTracker** — a productivity tool to help people stay on track *(in progress)*
+- **FocusTracker**: a productivity tool to help people stay on track *(in progress)*
 - Deepening my understanding of deep learning and neural networks
 
 ---
@@ -32,8 +32,8 @@ First year CS student at **BITS Pilani, Goa × RMIT University** — building th
 
 ## Currently learning
 
-- Deep Learning — CNNs and Transformers
-- Git & open source workflows *(yes, including this README!)*
+- Deep Learning: CNNs and Transformers
+- Git & open source workflows
 
 ---
 
