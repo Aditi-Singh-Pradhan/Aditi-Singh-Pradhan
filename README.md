@@ -15,9 +15,11 @@ First year CS student at **BITS Pilani, Goa × RMIT University**  interested in 
 
 | Project | What it does | Tools |
 |---|---|---|
-| [Housing Price Prediction](#) | Predicts house prices using regression | Python, Scikit-learn, Pandas |
-| [Heart Disease Prediction](#) | Neural network classifier for heart disease risk | Python, TensorFlow, NumPy |
+| [Housing Price Prediction] | Predicts house prices using regression | Python, Scikit-learn, Pandas |
+| [Heart Disease Prediction] | Neural network classifier for heart disease risk | Python, TensorFlow, NumPy |
+| [Pocketpad]                | turns phone into a wireless trackpad for your desktop| Python, WebSockets, pyautogui |
 | FocusTracker *(coming soon)* | Productivity & focus tracking app | Python |
+
 
 
 ---
