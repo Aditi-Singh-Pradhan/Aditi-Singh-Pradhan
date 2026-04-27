@@ -6,7 +6,7 @@ First year CS student at **BITS Pilani, Goa + RMIT**  interested in the domain o
 
 ## What I'm working on
 
-- **FocusTracker**: a productivity tool to help people stay on track *(in progress)*
+- **FocusTracker**: a productivity tool to help people stay on track 
 - Deepening my understanding of deep learning and neural networks
 
 ---
@@ -44,6 +44,6 @@ First year CS student at **BITS Pilani, Goa + RMIT**  interested in the domain o
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/aditi-singh-pradhan-b4ab92351)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aditi.singh2354@gmail.com)
 
 ---
