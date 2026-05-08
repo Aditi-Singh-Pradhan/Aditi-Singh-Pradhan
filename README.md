@@ -1,4 +1,4 @@
-# Hi, I'm Aditi Singh Pradhan 👋
+# Hi, I'm Aditi Singh Pradhan
 
 First year CS student at **BITS Pilani, Goa + RMIT**  interested in the domain of AI/ML.
 
